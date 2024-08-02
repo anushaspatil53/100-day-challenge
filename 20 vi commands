@@ -1,0 +1,21 @@
+
+
+
+1. Esc - enter to normal mode
+2. 0 - move to the beginning of the line
+3. $ - move end of the line
+4. i - insert before the cursor
+5. u - undo the last changes
+6. w - save the file
+7. q - quit 
+8. wq - save and quit
+9. q! - quit without save(forcefull exit)
+10. dd - delete the current line
+11. p - paste the deleted text or copied text after the cursor
+12. ctrl+r - redo the last undone change
+13. h - move left
+14. j - move down
+15. k - move up
+16. l - move right 
+17. set nu - show line numbers
+18. set nonu - hide line numberrs
