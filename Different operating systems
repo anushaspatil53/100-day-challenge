@@ -8,6 +8,13 @@
 7. Windows
 8. Android
 
+Linux Operating
+1. Ubuntu
+2. MX Linux
+3. Puppy Linux
+4. Fedora
+5. Red Hat Enterprise Linux
+6. Debian
 
 Installation of kali linux in VMware workstation
 1. Download ISO file from Kali Linux Page
@@ -20,7 +27,7 @@ Installation of kali linux in VMware workstation
 6. Click Finish 
 
 Go back to VMware Workstation to insall kali linux
-1. click on Paly virtual machine
+1. click on Play virtual machine
 2. Click on graphical install (Press ctrl + atl to come back to windows)
 3. Select language, country, hostname and password. Click Continue
 4. Finish the installation. Installation is competed, click on continue
