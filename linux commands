@@ -1,0 +1,11 @@
+
+1. ls(list) : lists all files and directories under a specified directory in alphabetical order by name.pwd
+2. pwd(print working directory) : displays full pathname of the current directory
+3. cd(change directory) : used to change the current working directory in the terminal
+4. alias : creates shortcuts for commands or groups of commandsdiff
+5. diff : a command-line utility that allows you to campare two files line by line. Generates a set of commands to transform one file into the other.
+6. whoami : display username of the current user
+7. tar(tap archive) : used for saving several files into an archive file
+8. tail : print data from the end of a specified file or files to standard output
+9. cmp(compare) : compare two files byte by byte. Indicates difference between files
+10. mount : used to attach a file system to a specific directory in the file system hierarchy, effectively incorporating it into the overall file system structure.
