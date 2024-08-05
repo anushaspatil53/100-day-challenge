@@ -1,0 +1,9 @@
+The WannaCry ransomware attack, which occurred in May 2017, was a widespread cyberattack that affected thousands of organizations and individuals around the world.
+
+some terminologies in wannacry ransomeware attack
+1. Impact: The attack affected a wide range of organizations, including hospitals, telecommunications companies, and businesses. It disrupted operations and caused significant financial damage.
+2. Vulnerability Exploited: The attack exploited a vulnerability in the Windows SMB protocol, specifically a flaw in the way Windows handled SMBv1 connections.
+3. Encryption: WannaCry encrypted files on infected systems using AES (Advanced Encryption Standard) and RSA (Rivest-Shamir-Adleman) encryption, rendering them inaccessible without the decryption key.
+4.Global Impact: The attack highlighted the importance of cybersecurity and the need for timely software updates and vulnerability management. It also underscored the potential risks associated with 
+  leaked government-developed hacking tools.
+5. Kill Switch: A security researcher named Marcus Hutchins discovered a "kill switch" in the ransomware's code, which prevented further spread of the attack.
