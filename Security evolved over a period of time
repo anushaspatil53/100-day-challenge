@@ -1,0 +1,44 @@
+- Cybersecurity developed as a distinct field throughout the 1960s and 70s and exploded into the 
+  public consciousness in the late 1980s.
+- An early instance of hacking in 1963 involved hacking a phone system to make long-distance calls for free.
+- Hacking is the act of working within the confines of a system to produce unintended behavior.
+- That behavior ranges from cracking passwords to saving a spaceship’s air system using spare parts.
+
+1960’s
+- In 60's there is increase in connectivity, computing time was expensive. The solution of protecting accounts with passwords has persisted.
+
+1970’s
+- The creation of ARPANET, the earliest form of the internet. It was a testing ground for new technologies.
+- There were a few adventures into the development of malware (short for malicious software), including Creeper and Reaper, the first computer worms.
+-A 1975 paper titled The Protection of Information in Computer Systems presented principles and concepts that would become critical to cybersecurity in the future.
+
+1980’s
+- the Internet was formed in 1983, and the adoption of the Internet Protocol Suite by ARPANET and other networks.
+- Era of cold war 
+-Tools and techniques developed during this era in cybersecurity, dictionary attacks used stolen lists of passwords and exploited weak default credentials, while decoy computer systems trapped attackers.
+   80’s major events
+    -Hacker working for the KGB gained access to sensitive documents from the U.S. military.
+    -Morris Worm : choking computers with multiple copies of itself, and clogging the network as it kept replicating.
+
+1990’s
+- Era of viruses 
+- Many computers that connected to the internet became common in household.
+- This led to unskilled script kiddies. They can use that code to launch attacks they don’t understand in order to vandalize or destroy targets for fun.
+
+2000’s
+- Data became digitized particularly to monetary transactions.
+- Credit-card breaches, hacktivism, and holding corporations’ systems for ransom became increased.
+- Companies started considering security seriously as it could lead to extended downtime, loss of customer loyalty, lawsuits, and fines from regulatory bodies.
+
+2010’s
+- Malicious hacker groups targeted major corporations and government organizations, stealing data and launching ransomware attacks.
+- Most dangerous threat actors are Advanced Persistent Threats. APTs are capable of running entire cyber-campaigns, attempting to infiltrate their target across multiple domains simultaneously.
+- WannaCry and NotPetya caused global damage.
+
+Present Day
+- Attacks on computers can disrupt transportation, power, economy, healthcare, communication, and even lives.
+- Airlines, hospitals and people’s computers were affected after CrowdStrike, a cybersecurity company, sent out a flawed software update.
+
+
+sources - https://www.codecademy.com/article/other-cyber-attacks
+          https://www.nytimes.com/2024/07/19/business/microsoft-outage-cause-azure-crowdstrike.html
